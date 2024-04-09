@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>NugetCochesAlexia</id>
+    <version>1.0.0</version>
+    <title>Nuget coches Alexia</title>
+    <authors>Alexia</authors>
+    <icon>doctor.jpg</icon>
+    <description>Estamos haciendo un proyecto de Nuget por la mañana</description>
+    <tags>juernes,cars,coches</tags>
+    <dependencies>
+      <group targetFramework="net7.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="E:\WEB_MASTER\MODULO4\AZURE\WCFLogicaPrimerServicio\ProyectoNugetCoches\bin\Release\net7.0\ProyectoNugetCoches.dll" target="lib\net7.0\ProyectoNugetCoches.dll" />
+    <file src="C:\Users\Alumnos MCSD Mañana\Downloads\doctor.jpg" target="\doctor.jpg" />
+  </files>
+</package>

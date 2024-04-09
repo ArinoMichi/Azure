@@ -1,0 +1,10 @@
+E:\WEB_MASTER\MODULO4\AZURE\WCFLogicaPrimerServicio\WCFHostEscenasPelis\bin\WCFHostEscenasPelis.dll.config
+E:\WEB_MASTER\MODULO4\AZURE\WCFLogicaPrimerServicio\WCFHostEscenasPelis\bin\WCFHostEscenasPelis.dll
+E:\WEB_MASTER\MODULO4\AZURE\WCFLogicaPrimerServicio\WCFHostEscenasPelis\bin\WCFHostEscenasPelis.pdb
+E:\WEB_MASTER\MODULO4\AZURE\WCFLogicaPrimerServicio\WCFHostEscenasPelis\bin\WCFLogicaEscenasPelis.dll
+E:\WEB_MASTER\MODULO4\AZURE\WCFLogicaPrimerServicio\WCFHostEscenasPelis\bin\WCFLogicaEscenasPelis.pdb
+E:\WEB_MASTER\MODULO4\AZURE\WCFLogicaPrimerServicio\WCFHostEscenasPelis\obj\Release\WCFHostEscenasPelis.csproj.AssemblyReference.cache
+E:\WEB_MASTER\MODULO4\AZURE\WCFLogicaPrimerServicio\WCFHostEscenasPelis\obj\Release\WCFHostEscenasPelis.csproj.CoreCompileInputs.cache
+E:\WEB_MASTER\MODULO4\AZURE\WCFLogicaPrimerServicio\WCFHostEscenasPelis\obj\Release\WCFHostEscenasPelis.csproj.CopyComplete
+E:\WEB_MASTER\MODULO4\AZURE\WCFLogicaPrimerServicio\WCFHostEscenasPelis\obj\Release\WCFHostEscenasPelis.dll
+E:\WEB_MASTER\MODULO4\AZURE\WCFLogicaPrimerServicio\WCFHostEscenasPelis\obj\Release\WCFHostEscenasPelis.pdb

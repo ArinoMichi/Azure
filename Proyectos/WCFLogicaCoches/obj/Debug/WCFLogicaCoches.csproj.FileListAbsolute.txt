@@ -1,0 +1,6 @@
+E:\WEB_MASTER\MODULO4\AZURE\WCFLogicaPrimerServicio\WCFLogicaCoches\bin\Debug\WCFLogicaCoches.dll
+E:\WEB_MASTER\MODULO4\AZURE\WCFLogicaPrimerServicio\WCFLogicaCoches\bin\Debug\WCFLogicaCoches.pdb
+E:\WEB_MASTER\MODULO4\AZURE\WCFLogicaPrimerServicio\WCFLogicaCoches\obj\Debug\WCFLogicaCoches.csproj.AssemblyReference.cache
+E:\WEB_MASTER\MODULO4\AZURE\WCFLogicaPrimerServicio\WCFLogicaCoches\obj\Debug\WCFLogicaCoches.csproj.CoreCompileInputs.cache
+E:\WEB_MASTER\MODULO4\AZURE\WCFLogicaPrimerServicio\WCFLogicaCoches\obj\Debug\WCFLogicaCoches.dll
+E:\WEB_MASTER\MODULO4\AZURE\WCFLogicaPrimerServicio\WCFLogicaCoches\obj\Debug\WCFLogicaCoches.pdb

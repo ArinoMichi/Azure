@@ -1,0 +1,6 @@
+E:\WEB_MASTER\MODULO4\AZURE\WCFLogicaPrimerServicio\WCFLogicaEscenasPelis\bin\Debug\WCFLogicaEscenasPelis.dll
+E:\WEB_MASTER\MODULO4\AZURE\WCFLogicaPrimerServicio\WCFLogicaEscenasPelis\bin\Debug\WCFLogicaEscenasPelis.pdb
+E:\WEB_MASTER\MODULO4\AZURE\WCFLogicaPrimerServicio\WCFLogicaEscenasPelis\obj\Debug\WCFLogicaEscenasPelis.csproj.AssemblyReference.cache
+E:\WEB_MASTER\MODULO4\AZURE\WCFLogicaPrimerServicio\WCFLogicaEscenasPelis\obj\Debug\WCFLogicaEscenasPelis.csproj.CoreCompileInputs.cache
+E:\WEB_MASTER\MODULO4\AZURE\WCFLogicaPrimerServicio\WCFLogicaEscenasPelis\obj\Debug\WCFLogicaEscenasPelis.dll
+E:\WEB_MASTER\MODULO4\AZURE\WCFLogicaPrimerServicio\WCFLogicaEscenasPelis\obj\Debug\WCFLogicaEscenasPelis.pdb

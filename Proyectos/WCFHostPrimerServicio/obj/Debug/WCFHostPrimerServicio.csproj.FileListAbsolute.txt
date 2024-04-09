@@ -1,0 +1,10 @@
+E:\WEB_MASTER\MODULO4\AZURE\WCFLogicaPrimerServicio\WCFHostPrimerServicio\bin\WCFHostPrimerServicio.dll.config
+E:\WEB_MASTER\MODULO4\AZURE\WCFLogicaPrimerServicio\WCFHostPrimerServicio\bin\WCFHostPrimerServicio.dll
+E:\WEB_MASTER\MODULO4\AZURE\WCFLogicaPrimerServicio\WCFHostPrimerServicio\bin\WCFHostPrimerServicio.pdb
+E:\WEB_MASTER\MODULO4\AZURE\WCFLogicaPrimerServicio\WCFHostPrimerServicio\bin\WCFLogicaPrimerServicio.dll
+E:\WEB_MASTER\MODULO4\AZURE\WCFLogicaPrimerServicio\WCFHostPrimerServicio\bin\WCFLogicaPrimerServicio.pdb
+E:\WEB_MASTER\MODULO4\AZURE\WCFLogicaPrimerServicio\WCFHostPrimerServicio\obj\Debug\WCFHostPrimerServicio.csproj.AssemblyReference.cache
+E:\WEB_MASTER\MODULO4\AZURE\WCFLogicaPrimerServicio\WCFHostPrimerServicio\obj\Debug\WCFHostPrimerServicio.csproj.CoreCompileInputs.cache
+E:\WEB_MASTER\MODULO4\AZURE\WCFLogicaPrimerServicio\WCFHostPrimerServicio\obj\Debug\WCFHostPrimerServicio.csproj.CopyComplete
+E:\WEB_MASTER\MODULO4\AZURE\WCFLogicaPrimerServicio\WCFHostPrimerServicio\obj\Debug\WCFHostPrimerServicio.dll
+E:\WEB_MASTER\MODULO4\AZURE\WCFLogicaPrimerServicio\WCFHostPrimerServicio\obj\Debug\WCFHostPrimerServicio.pdb

@@ -1,0 +1,12 @@
+E:\WEB_MASTER\MODULO4\AZURE\WCFLogicaPrimerServicio\NugetApiModels\bin\Release\net7.0\NugetApiModels.deps.json
+E:\WEB_MASTER\MODULO4\AZURE\WCFLogicaPrimerServicio\NugetApiModels\bin\Release\net7.0\NugetApiModels.dll
+E:\WEB_MASTER\MODULO4\AZURE\WCFLogicaPrimerServicio\NugetApiModels\bin\Release\net7.0\NugetApiModels.pdb
+E:\WEB_MASTER\MODULO4\AZURE\WCFLogicaPrimerServicio\NugetApiModels\obj\Release\net7.0\NugetApiModels.csproj.AssemblyReference.cache
+E:\WEB_MASTER\MODULO4\AZURE\WCFLogicaPrimerServicio\NugetApiModels\obj\Release\net7.0\NugetApiModels.GeneratedMSBuildEditorConfig.editorconfig
+E:\WEB_MASTER\MODULO4\AZURE\WCFLogicaPrimerServicio\NugetApiModels\obj\Release\net7.0\NugetApiModels.AssemblyInfoInputs.cache
+E:\WEB_MASTER\MODULO4\AZURE\WCFLogicaPrimerServicio\NugetApiModels\obj\Release\net7.0\NugetApiModels.AssemblyInfo.cs
+E:\WEB_MASTER\MODULO4\AZURE\WCFLogicaPrimerServicio\NugetApiModels\obj\Release\net7.0\NugetApiModels.csproj.CoreCompileInputs.cache
+E:\WEB_MASTER\MODULO4\AZURE\WCFLogicaPrimerServicio\NugetApiModels\obj\Release\net7.0\NugetApiModels.dll
+E:\WEB_MASTER\MODULO4\AZURE\WCFLogicaPrimerServicio\NugetApiModels\obj\Release\net7.0\refint\NugetApiModels.dll
+E:\WEB_MASTER\MODULO4\AZURE\WCFLogicaPrimerServicio\NugetApiModels\obj\Release\net7.0\NugetApiModels.pdb
+E:\WEB_MASTER\MODULO4\AZURE\WCFLogicaPrimerServicio\NugetApiModels\obj\Release\net7.0\ref\NugetApiModels.dll

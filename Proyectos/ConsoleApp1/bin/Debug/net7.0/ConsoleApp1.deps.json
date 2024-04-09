@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "ConsoleApp1/1.0.0": {
+        "dependencies": {
+          "NugetCochesAlexia": "1.0.0.2"
+        },
+        "runtime": {
+          "ConsoleApp1.dll": {}
+        }
+      },
+      "NugetCochesAlexia/1.0.0.2": {
+        "runtime": {
+          "lib/net7.0/ProyectoNugetCoches.dll": {
+            "assemblyVersion": "1.2.0.0",
+            "fileVersion": "1.2.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ConsoleApp1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "NugetCochesAlexia/1.0.0.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-wKgrRhzouC2COCmBkS0Qay2IFItpg7KCMJf+VwN9AzUnHDslTg7InzmSq01toPKo5z44m3ZITq0TlQQTwzoN4A==",
+      "path": "nugetcochesalexia/1.0.0.2",
+      "hashPath": "nugetcochesalexia.1.0.0.2.nupkg.sha512"
+    }
+  }
+}

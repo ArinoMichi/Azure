@@ -1,0 +1,12 @@
+E:\WEB_MASTER\MODULO4\AZURE\WCFLogicaPrimerServicio\ApiCorePersonas\obj\Release\net7.0\PubTmp\Out\ApiCorePersonas.exe
+E:\WEB_MASTER\MODULO4\AZURE\WCFLogicaPrimerServicio\ApiCorePersonas\obj\Release\net7.0\PubTmp\Out\appsettings.Development.json
+E:\WEB_MASTER\MODULO4\AZURE\WCFLogicaPrimerServicio\ApiCorePersonas\obj\Release\net7.0\PubTmp\Out\appsettings.json
+E:\WEB_MASTER\MODULO4\AZURE\WCFLogicaPrimerServicio\ApiCorePersonas\obj\Release\net7.0\PubTmp\Out\ApiCorePersonas.dll
+E:\WEB_MASTER\MODULO4\AZURE\WCFLogicaPrimerServicio\ApiCorePersonas\obj\Release\net7.0\PubTmp\Out\ApiCorePersonas.deps.json
+E:\WEB_MASTER\MODULO4\AZURE\WCFLogicaPrimerServicio\ApiCorePersonas\obj\Release\net7.0\PubTmp\Out\ApiCorePersonas.runtimeconfig.json
+E:\WEB_MASTER\MODULO4\AZURE\WCFLogicaPrimerServicio\ApiCorePersonas\obj\Release\net7.0\PubTmp\Out\ApiCorePersonas.pdb
+E:\WEB_MASTER\MODULO4\AZURE\WCFLogicaPrimerServicio\ApiCorePersonas\obj\Release\net7.0\PubTmp\Out\Microsoft.AspNetCore.OpenApi.dll
+E:\WEB_MASTER\MODULO4\AZURE\WCFLogicaPrimerServicio\ApiCorePersonas\obj\Release\net7.0\PubTmp\Out\Microsoft.OpenApi.dll
+E:\WEB_MASTER\MODULO4\AZURE\WCFLogicaPrimerServicio\ApiCorePersonas\obj\Release\net7.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+E:\WEB_MASTER\MODULO4\AZURE\WCFLogicaPrimerServicio\ApiCorePersonas\obj\Release\net7.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\WEB_MASTER\MODULO4\AZURE\WCFLogicaPrimerServicio\ApiCorePersonas\obj\Release\net7.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll

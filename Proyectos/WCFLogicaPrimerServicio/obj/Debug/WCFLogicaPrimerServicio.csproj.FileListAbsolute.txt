@@ -1,0 +1,6 @@
+E:\WEB_MASTER\MODULO4\AZURE\WCFLogicaPrimerServicio\WCFLogicaPrimerServicio\bin\Debug\WCFLogicaPrimerServicio.dll
+E:\WEB_MASTER\MODULO4\AZURE\WCFLogicaPrimerServicio\WCFLogicaPrimerServicio\bin\Debug\WCFLogicaPrimerServicio.pdb
+E:\WEB_MASTER\MODULO4\AZURE\WCFLogicaPrimerServicio\WCFLogicaPrimerServicio\obj\Debug\WCFLogicaPrimerServicio.csproj.AssemblyReference.cache
+E:\WEB_MASTER\MODULO4\AZURE\WCFLogicaPrimerServicio\WCFLogicaPrimerServicio\obj\Debug\WCFLogicaPrimerServicio.csproj.CoreCompileInputs.cache
+E:\WEB_MASTER\MODULO4\AZURE\WCFLogicaPrimerServicio\WCFLogicaPrimerServicio\obj\Debug\WCFLogicaPrimerServicio.dll
+E:\WEB_MASTER\MODULO4\AZURE\WCFLogicaPrimerServicio\WCFLogicaPrimerServicio\obj\Debug\WCFLogicaPrimerServicio.pdb

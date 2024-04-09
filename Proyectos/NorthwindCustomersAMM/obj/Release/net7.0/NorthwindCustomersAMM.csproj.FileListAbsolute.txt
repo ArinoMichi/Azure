@@ -1,0 +1,12 @@
+E:\WEB_MASTER\MODULO4\AZURE\WCFLogicaPrimerServicio\NorthwindCustomersAMM\bin\Release\net7.0\NorthwindCustomersAMM.deps.json
+E:\WEB_MASTER\MODULO4\AZURE\WCFLogicaPrimerServicio\NorthwindCustomersAMM\bin\Release\net7.0\NorthwindCustomersAMM.dll
+E:\WEB_MASTER\MODULO4\AZURE\WCFLogicaPrimerServicio\NorthwindCustomersAMM\bin\Release\net7.0\NorthwindCustomersAMM.pdb
+E:\WEB_MASTER\MODULO4\AZURE\WCFLogicaPrimerServicio\NorthwindCustomersAMM\obj\Release\net7.0\NorthwindCustomersAMM.csproj.AssemblyReference.cache
+E:\WEB_MASTER\MODULO4\AZURE\WCFLogicaPrimerServicio\NorthwindCustomersAMM\obj\Release\net7.0\NorthwindCustomersAMM.GeneratedMSBuildEditorConfig.editorconfig
+E:\WEB_MASTER\MODULO4\AZURE\WCFLogicaPrimerServicio\NorthwindCustomersAMM\obj\Release\net7.0\NorthwindCustomersAMM.AssemblyInfoInputs.cache
+E:\WEB_MASTER\MODULO4\AZURE\WCFLogicaPrimerServicio\NorthwindCustomersAMM\obj\Release\net7.0\NorthwindCustomersAMM.AssemblyInfo.cs
+E:\WEB_MASTER\MODULO4\AZURE\WCFLogicaPrimerServicio\NorthwindCustomersAMM\obj\Release\net7.0\NorthwindCustomersAMM.csproj.CoreCompileInputs.cache
+E:\WEB_MASTER\MODULO4\AZURE\WCFLogicaPrimerServicio\NorthwindCustomersAMM\obj\Release\net7.0\NorthwindCustomersAMM.dll
+E:\WEB_MASTER\MODULO4\AZURE\WCFLogicaPrimerServicio\NorthwindCustomersAMM\obj\Release\net7.0\refint\NorthwindCustomersAMM.dll
+E:\WEB_MASTER\MODULO4\AZURE\WCFLogicaPrimerServicio\NorthwindCustomersAMM\obj\Release\net7.0\NorthwindCustomersAMM.pdb
+E:\WEB_MASTER\MODULO4\AZURE\WCFLogicaPrimerServicio\NorthwindCustomersAMM\obj\Release\net7.0\ref\NorthwindCustomersAMM.dll

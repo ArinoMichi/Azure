@@ -1,0 +1,100 @@
+{
+  "version": 3,
+  "targets": {
+    "net7.0": {
+      "NugetCochesAlexia/1.0.0.2": {
+        "type": "package",
+        "compile": {
+          "lib/net7.0/ProyectoNugetCoches.dll": {}
+        },
+        "runtime": {
+          "lib/net7.0/ProyectoNugetCoches.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "NugetCochesAlexia/1.0.0.2": {
+      "sha512": "wKgrRhzouC2COCmBkS0Qay2IFItpg7KCMJf+VwN9AzUnHDslTg7InzmSq01toPKo5z44m3ZITq0TlQQTwzoN4A==",
+      "type": "package",
+      "path": "nugetcochesalexia/1.0.0.2",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "doctor.jpg",
+        "lib/net7.0/ProyectoNugetCoches.dll",
+        "nugetcochesalexia.1.0.0.2.nupkg.sha512",
+        "nugetcochesalexia.nuspec"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net7.0": [
+      "NugetCochesAlexia >= 1.0.0.2"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Alumnos MCSD Mañana\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "E:\\WEB_MASTER\\MODULO4\\AZURE\\WCFLogicaPrimerServicio\\ConsoleApp1\\ConsoleApp1.csproj",
+      "projectName": "ConsoleApp1",
+      "projectPath": "E:\\WEB_MASTER\\MODULO4\\AZURE\\WCFLogicaPrimerServicio\\ConsoleApp1\\ConsoleApp1.csproj",
+      "packagesPath": "C:\\Users\\Alumnos MCSD Mañana\\.nuget\\packages\\",
+      "outputPath": "E:\\WEB_MASTER\\MODULO4\\AZURE\\WCFLogicaPrimerServicio\\ConsoleApp1\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Alumnos MCSD Mañana\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net7.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net7.0": {
+        "targetAlias": "net7.0",
+        "dependencies": {
+          "NugetCochesAlexia": {
+            "target": "Package",
+            "version": "[1.0.0.2, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

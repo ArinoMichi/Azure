@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>NugetApiModels</id>
+    <version>1.0.0</version>
+    <authors>NugetApiModels</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net7.0">
+        <dependency id="Microsoft.EntityFrameworkCore" version="7.0.17" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="E:\WEB_MASTER\MODULO4\AZURE\WCFLogicaPrimerServicio\NugetApiModels\bin\Release\net7.0\NugetApiModels.dll" target="lib\net7.0\NugetApiModels.dll" />
+  </files>
+</package>

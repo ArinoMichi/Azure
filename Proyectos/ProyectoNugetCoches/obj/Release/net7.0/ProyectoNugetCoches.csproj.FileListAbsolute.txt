@@ -1,0 +1,12 @@
+E:\WEB_MASTER\MODULO4\AZURE\WCFLogicaPrimerServicio\ProyectoNugetCoches\bin\Release\net7.0\ProyectoNugetCoches.deps.json
+E:\WEB_MASTER\MODULO4\AZURE\WCFLogicaPrimerServicio\ProyectoNugetCoches\bin\Release\net7.0\ProyectoNugetCoches.dll
+E:\WEB_MASTER\MODULO4\AZURE\WCFLogicaPrimerServicio\ProyectoNugetCoches\bin\Release\net7.0\ProyectoNugetCoches.pdb
+E:\WEB_MASTER\MODULO4\AZURE\WCFLogicaPrimerServicio\ProyectoNugetCoches\obj\Release\net7.0\ProyectoNugetCoches.csproj.AssemblyReference.cache
+E:\WEB_MASTER\MODULO4\AZURE\WCFLogicaPrimerServicio\ProyectoNugetCoches\obj\Release\net7.0\ProyectoNugetCoches.GeneratedMSBuildEditorConfig.editorconfig
+E:\WEB_MASTER\MODULO4\AZURE\WCFLogicaPrimerServicio\ProyectoNugetCoches\obj\Release\net7.0\ProyectoNugetCoches.AssemblyInfoInputs.cache
+E:\WEB_MASTER\MODULO4\AZURE\WCFLogicaPrimerServicio\ProyectoNugetCoches\obj\Release\net7.0\ProyectoNugetCoches.AssemblyInfo.cs
+E:\WEB_MASTER\MODULO4\AZURE\WCFLogicaPrimerServicio\ProyectoNugetCoches\obj\Release\net7.0\ProyectoNugetCoches.csproj.CoreCompileInputs.cache
+E:\WEB_MASTER\MODULO4\AZURE\WCFLogicaPrimerServicio\ProyectoNugetCoches\obj\Release\net7.0\ProyectoNugetCoches.dll
+E:\WEB_MASTER\MODULO4\AZURE\WCFLogicaPrimerServicio\ProyectoNugetCoches\obj\Release\net7.0\refint\ProyectoNugetCoches.dll
+E:\WEB_MASTER\MODULO4\AZURE\WCFLogicaPrimerServicio\ProyectoNugetCoches\obj\Release\net7.0\ProyectoNugetCoches.pdb
+E:\WEB_MASTER\MODULO4\AZURE\WCFLogicaPrimerServicio\ProyectoNugetCoches\obj\Release\net7.0\ref\ProyectoNugetCoches.dll

@@ -1,0 +1,26 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <PackageId>NugetCochesAlexia</PackageId>
+    <Title>Nuget coches Alexia</Title>
+    <Authors>Alexia</Authors>
+    <Description>Estamos haciendo un proyecto de Nuget por la mañana</Description>
+    <PackageIcon>doctor.jpg</PackageIcon>
+    <PackageTags>juernes,cars,coches</PackageTags>
+    <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+    <AssemblyVersion>1.2</AssemblyVersion>
+    <FileVersion>1.2</FileVersion>
+    <Version>1.0.0.2</Version>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="C:\Users\Alumnos MCSD Mañana\Downloads\doctor.jpg">
+      <Pack>True</Pack>
+      <PackagePath>\</PackagePath>
+    </None>
+  </ItemGroup>
+
+</Project>

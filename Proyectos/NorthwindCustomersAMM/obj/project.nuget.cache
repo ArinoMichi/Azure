@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "RFz14IS0KThCblXK7gtdr0+mEnsZEVyC15qX6ykrGT2Df2oPbZb8lW/EXbazhlkEwMzNf1EIVG+HFx9lPBPufQ==",
+  "success": true,
+  "projectFilePath": "E:\\WEB_MASTER\\MODULO4\\AZURE\\WCFLogicaPrimerServicio\\NorthwindCustomersAMM\\NorthwindCustomersAMM.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Alumnos MCSD Mañana\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

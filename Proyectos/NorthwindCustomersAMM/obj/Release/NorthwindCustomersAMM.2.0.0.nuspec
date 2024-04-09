@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>NorthwindCustomersAMM</id>
+    <version>2.0.0</version>
+    <title>NorthWind Api Customers 2024</title>
+    <authors>NorthwindCustomersAMM</authors>
+    <description>Package Description</description>
+    <tags>northwind,ari,practicas</tags>
+    <dependencies>
+      <group targetFramework="net7.0">
+        <dependency id="Newtonsoft.Json" version="13.0.3" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="E:\WEB_MASTER\MODULO4\AZURE\WCFLogicaPrimerServicio\NorthwindCustomersAMM\bin\Release\net7.0\NorthwindCustomersAMM.dll" target="lib\net7.0\NorthwindCustomersAMM.dll" />
+  </files>
+</package>

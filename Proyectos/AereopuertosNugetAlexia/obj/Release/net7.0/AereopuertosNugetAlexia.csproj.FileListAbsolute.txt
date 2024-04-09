@@ -1,0 +1,12 @@
+E:\WEB_MASTER\MODULO4\AZURE\WCFLogicaPrimerServicio\AereopuertosNugetAlexia\obj\Release\net7.0\AereopuertosNugetAlexia.csproj.AssemblyReference.cache
+E:\WEB_MASTER\MODULO4\AZURE\WCFLogicaPrimerServicio\AereopuertosNugetAlexia\obj\Release\net7.0\AereopuertosNugetAlexia.GeneratedMSBuildEditorConfig.editorconfig
+E:\WEB_MASTER\MODULO4\AZURE\WCFLogicaPrimerServicio\AereopuertosNugetAlexia\obj\Release\net7.0\AereopuertosNugetAlexia.AssemblyInfoInputs.cache
+E:\WEB_MASTER\MODULO4\AZURE\WCFLogicaPrimerServicio\AereopuertosNugetAlexia\obj\Release\net7.0\AereopuertosNugetAlexia.AssemblyInfo.cs
+E:\WEB_MASTER\MODULO4\AZURE\WCFLogicaPrimerServicio\AereopuertosNugetAlexia\obj\Release\net7.0\AereopuertosNugetAlexia.csproj.CoreCompileInputs.cache
+E:\WEB_MASTER\MODULO4\AZURE\WCFLogicaPrimerServicio\AereopuertosNugetAlexia\bin\Release\net7.0\AereopuertosNugetAlexia.deps.json
+E:\WEB_MASTER\MODULO4\AZURE\WCFLogicaPrimerServicio\AereopuertosNugetAlexia\bin\Release\net7.0\AereopuertosNugetAlexia.dll
+E:\WEB_MASTER\MODULO4\AZURE\WCFLogicaPrimerServicio\AereopuertosNugetAlexia\bin\Release\net7.0\AereopuertosNugetAlexia.pdb
+E:\WEB_MASTER\MODULO4\AZURE\WCFLogicaPrimerServicio\AereopuertosNugetAlexia\obj\Release\net7.0\AereopuertosNugetAlexia.dll
+E:\WEB_MASTER\MODULO4\AZURE\WCFLogicaPrimerServicio\AereopuertosNugetAlexia\obj\Release\net7.0\refint\AereopuertosNugetAlexia.dll
+E:\WEB_MASTER\MODULO4\AZURE\WCFLogicaPrimerServicio\AereopuertosNugetAlexia\obj\Release\net7.0\AereopuertosNugetAlexia.pdb
+E:\WEB_MASTER\MODULO4\AZURE\WCFLogicaPrimerServicio\AereopuertosNugetAlexia\obj\Release\net7.0\ref\AereopuertosNugetAlexia.dll

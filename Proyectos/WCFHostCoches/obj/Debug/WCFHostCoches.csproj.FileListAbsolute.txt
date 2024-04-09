@@ -1,0 +1,10 @@
+E:\WEB_MASTER\MODULO4\AZURE\WCFLogicaPrimerServicio\WCFHostCoches\bin\WCFHostCoches.dll.config
+E:\WEB_MASTER\MODULO4\AZURE\WCFLogicaPrimerServicio\WCFHostCoches\bin\WCFHostCoches.dll
+E:\WEB_MASTER\MODULO4\AZURE\WCFLogicaPrimerServicio\WCFHostCoches\bin\WCFHostCoches.pdb
+E:\WEB_MASTER\MODULO4\AZURE\WCFLogicaPrimerServicio\WCFHostCoches\bin\WCFLogicaCoches.dll
+E:\WEB_MASTER\MODULO4\AZURE\WCFLogicaPrimerServicio\WCFHostCoches\bin\WCFLogicaCoches.pdb
+E:\WEB_MASTER\MODULO4\AZURE\WCFLogicaPrimerServicio\WCFHostCoches\obj\Debug\WCFHostCoches.csproj.AssemblyReference.cache
+E:\WEB_MASTER\MODULO4\AZURE\WCFLogicaPrimerServicio\WCFHostCoches\obj\Debug\WCFHostCoches.csproj.CoreCompileInputs.cache
+E:\WEB_MASTER\MODULO4\AZURE\WCFLogicaPrimerServicio\WCFHostCoches\obj\Debug\WCFHostCoches.csproj.CopyComplete
+E:\WEB_MASTER\MODULO4\AZURE\WCFLogicaPrimerServicio\WCFHostCoches\obj\Debug\WCFHostCoches.dll
+E:\WEB_MASTER\MODULO4\AZURE\WCFLogicaPrimerServicio\WCFHostCoches\obj\Debug\WCFHostCoches.pdb
