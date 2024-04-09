@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "YFs7sx7S+EtMgBlNp+Iq4Da/iWOHWD/3xlkQjO2mh3CxluLGZT/JtxEEuFTIKvmIqwnArQk63C9Qq66+BvD1GQ==",
+  "dgSpecHash": "2XZKD9LnjCwjufBDOjxCzSh7cDXRnGjcl8uT+JvtEPXDaPEhWO7qwpVDfuZzmKV/+zrsyQzEg02d73WULrpGKw==",
   "success": true,
-  "projectFilePath": "E:\\WEB_MASTER\\MODULO4\\AZURE\\WCFLogicaPrimerServicio\\MvcCoreApiClient\\MvcCoreApiClient.csproj",
+  "projectFilePath": "E:\\WEB_MASTER\\MODULO4\\AZURE\\Proyectos\\MvcCoreApiClient\\MvcCoreApiClient.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Alumnos MCSD Mañana\\.nuget\\packages\\humanizer\\2.14.1\\humanizer.2.14.1.nupkg.sha512",
     "C:\\Users\\Alumnos MCSD Mañana\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
