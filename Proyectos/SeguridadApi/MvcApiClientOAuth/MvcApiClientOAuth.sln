@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MvcApiClientOAuth", "MvcApiClientOAuth.csproj", "{DC8C6EEC-F8CB-4330-A09D-9AC8AD9F1718}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DC8C6EEC-F8CB-4330-A09D-9AC8AD9F1718}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC8C6EEC-F8CB-4330-A09D-9AC8AD9F1718}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC8C6EEC-F8CB-4330-A09D-9AC8AD9F1718}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC8C6EEC-F8CB-4330-A09D-9AC8AD9F1718}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {72320E28-A829-4F66-B563-E7240A8943A2}
+	EndGlobalSection
+EndGlobal
