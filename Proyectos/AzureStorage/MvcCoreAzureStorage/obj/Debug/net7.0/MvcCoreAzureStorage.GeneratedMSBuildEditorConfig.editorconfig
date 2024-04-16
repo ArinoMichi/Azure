@@ -44,6 +44,22 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXp1cmVGaWxlc1xVcGxvYWRGaWxlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
+[E:/WEB_MASTER/MODULO4/AZURE/Proyectos/AzureStorage/MvcCoreAzureStorage/Views/AzureTables/ClientesEmpresa.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXp1cmVUYWJsZXNcQ2xpZW50ZXNFbXByZXNhLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/WEB_MASTER/MODULO4/AZURE/Proyectos/AzureStorage/MvcCoreAzureStorage/Views/AzureTables/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXp1cmVUYWJsZXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/WEB_MASTER/MODULO4/AZURE/Proyectos/AzureStorage/MvcCoreAzureStorage/Views/AzureTables/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXp1cmVUYWJsZXNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/WEB_MASTER/MODULO4/AZURE/Proyectos/AzureStorage/MvcCoreAzureStorage/Views/AzureTables/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXp1cmVUYWJsZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [E:/WEB_MASTER/MODULO4/AZURE/Proyectos/AzureStorage/MvcCoreAzureStorage/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
