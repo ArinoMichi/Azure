@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "a0ykRwjTGZSQQuYYIVE4FRFt1xn4pzanxAnnuzLe7zU=",
+  "Source": "ApiStorageTokens",
+  "BasePath": "_content/ApiStorageTokens",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
