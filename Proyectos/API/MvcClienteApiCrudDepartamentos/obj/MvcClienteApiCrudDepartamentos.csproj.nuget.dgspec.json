@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\WEB_MASTER\\MODULO4\\AZURE\\WCFLogicaPrimerServicio\\MvcClienteApiCrudDepartamentos\\MvcClienteApiCrudDepartamentos.csproj": {}
+    "E:\\WEB_MASTER\\MODULO4\\AZURE\\Proyectos\\API\\MvcClienteApiCrudDepartamentos\\MvcClienteApiCrudDepartamentos.csproj": {}
   },
   "projects": {
-    "E:\\WEB_MASTER\\MODULO4\\AZURE\\WCFLogicaPrimerServicio\\MvcClienteApiCrudDepartamentos\\MvcClienteApiCrudDepartamentos.csproj": {
+    "E:\\WEB_MASTER\\MODULO4\\AZURE\\Proyectos\\API\\MvcClienteApiCrudDepartamentos\\MvcClienteApiCrudDepartamentos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\WEB_MASTER\\MODULO4\\AZURE\\WCFLogicaPrimerServicio\\MvcClienteApiCrudDepartamentos\\MvcClienteApiCrudDepartamentos.csproj",
+        "projectUniqueName": "E:\\WEB_MASTER\\MODULO4\\AZURE\\Proyectos\\API\\MvcClienteApiCrudDepartamentos\\MvcClienteApiCrudDepartamentos.csproj",
         "projectName": "MvcClienteApiCrudDepartamentos",
-        "projectPath": "E:\\WEB_MASTER\\MODULO4\\AZURE\\WCFLogicaPrimerServicio\\MvcClienteApiCrudDepartamentos\\MvcClienteApiCrudDepartamentos.csproj",
+        "projectPath": "E:\\WEB_MASTER\\MODULO4\\AZURE\\Proyectos\\API\\MvcClienteApiCrudDepartamentos\\MvcClienteApiCrudDepartamentos.csproj",
         "packagesPath": "C:\\Users\\Alumnos MCSD Mañana\\.nuget\\packages\\",
-        "outputPath": "E:\\WEB_MASTER\\MODULO4\\AZURE\\WCFLogicaPrimerServicio\\MvcClienteApiCrudDepartamentos\\obj\\",
+        "outputPath": "E:\\WEB_MASTER\\MODULO4\\AZURE\\Proyectos\\API\\MvcClienteApiCrudDepartamentos\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Alumnos MCSD Mañana\\AppData\\Roaming\\NuGet\\NuGet.Config",

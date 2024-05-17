@@ -21,7 +21,8 @@ builder.Services.AddSwaggerGen(options =>
     options.SwaggerDoc("v1", new Microsoft.OpenApi.Models.OpenApiInfo
     {
         Title= "Api de martes",
-        Description="Api Crud de martes"
+        Description="Api Crud de martes",
+        Version= "v1"
     });
 });
 

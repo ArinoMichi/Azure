@@ -1,0 +1,59 @@
+﻿@model List<PersonajesSeries>
+
+<div class="text-center">
+    <form method="post">
+        <select id="selectPersonajes" name="serie" class="form-control mt-3">
+            <option>Seleccione una serie...</option>
+        </select>
+        <button type="submit" class="btn btn-info mt-3">
+            Buscar
+        </button>
+    </form>
+    @if (Model != null)
+    {
+        <table class="table table-striped mt-3">
+            <thead>
+                <tr>
+                    <th>Nombre</th>
+                    <th>Imagen</th>
+                    <th>Serie</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var personaje in Model)
+                {
+                    <tr>
+                        <td>@personaje.Nombre</td>
+                        <td><img src="@personaje.Imagen" style="height: 100px; width: 100px;" /></td>
+                        <td>@personaje.Serie</td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    }
+</div>
+
+@section Scripts {
+    <script>
+        $(function () {
+            // Cargar series al iniciar la página
+            cargarSeries();
+
+            function cargarSeries() {
+                var url = "https://apipersonajesseries2024.azurewebsites.net/api/Personajes/Series";
+                $.ajax({
+                    url: url,
+                    method: "GET",
+                    success: function (data) {
+                        var dropdown = $("#selectPersonajes");
+                        dropdown.empty();
+                        dropdown.append($("<option></option>").attr("value", "").text("Seleccione una serie..."));
+                        $.each(data, function (index, serie) {
+                            dropdown.append($("<option></option>").attr("value", serie).text(serie));
+                        });
+                    }
+                });
+            }
+        });
+    </script>
+}

@@ -19,7 +19,7 @@ builder.Services.AddSwaggerGen(options =>
 {
     options.SwaggerDoc("v1", new OpenApiInfo
     {
-        Title = "API Hospitales de viernes",
+        Title = "ApiEmpleados",
         Description = "API realizada el viernes 05/04/2024",
         Version = "v1",
         Contact = new OpenApiContact

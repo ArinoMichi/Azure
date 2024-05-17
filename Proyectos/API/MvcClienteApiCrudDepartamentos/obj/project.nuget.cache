@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "TglAEYW3k1wpskWx/Xc1NhwWIRQQOgqfPs7TC5F41DTZ5ikg3SVewBvuJF+U+7UQ333AvJ7Wfm5Tl3/85zN14g==",
+  "dgSpecHash": "T6wFjMeebIz29W4voVXll7P5Ztz0V5KNKh67Pi88tWnZiJCURZl8G2s0JLHs6GYZz06NruCqCcStWuNjJj9lCw==",
   "success": true,
-  "projectFilePath": "E:\\WEB_MASTER\\MODULO4\\AZURE\\WCFLogicaPrimerServicio\\MvcClienteApiCrudDepartamentos\\MvcClienteApiCrudDepartamentos.csproj",
+  "projectFilePath": "E:\\WEB_MASTER\\MODULO4\\AZURE\\Proyectos\\API\\MvcClienteApiCrudDepartamentos\\MvcClienteApiCrudDepartamentos.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Alumnos MCSD Mañana\\.nuget\\packages\\humanizer\\2.14.1\\humanizer.2.14.1.nupkg.sha512",
     "C:\\Users\\Alumnos MCSD Mañana\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",

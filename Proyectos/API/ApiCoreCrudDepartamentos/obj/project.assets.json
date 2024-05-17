@@ -3164,11 +3164,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\WEB_MASTER\\MODULO4\\AZURE\\Proyectos\\ApiCoreCrudDepartamentos\\ApiCoreCrudDepartamentos.csproj",
+      "projectUniqueName": "E:\\WEB_MASTER\\MODULO4\\AZURE\\Proyectos\\API\\ApiCoreCrudDepartamentos\\ApiCoreCrudDepartamentos.csproj",
       "projectName": "ApiCoreCrudDepartamentos",
-      "projectPath": "E:\\WEB_MASTER\\MODULO4\\AZURE\\Proyectos\\ApiCoreCrudDepartamentos\\ApiCoreCrudDepartamentos.csproj",
+      "projectPath": "E:\\WEB_MASTER\\MODULO4\\AZURE\\Proyectos\\API\\ApiCoreCrudDepartamentos\\ApiCoreCrudDepartamentos.csproj",
       "packagesPath": "C:\\Users\\Alumnos MCSD Mañana\\.nuget\\packages\\",
-      "outputPath": "E:\\WEB_MASTER\\MODULO4\\AZURE\\Proyectos\\ApiCoreCrudDepartamentos\\obj\\",
+      "outputPath": "E:\\WEB_MASTER\\MODULO4\\AZURE\\Proyectos\\API\\ApiCoreCrudDepartamentos\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Alumnos MCSD Mañana\\AppData\\Roaming\\NuGet\\NuGet.Config",

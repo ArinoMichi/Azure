@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\WEB_MASTER\\MODULO4\\AZURE\\WCFLogicaPrimerServicio\\ApiEmpleadosMultiplesRoutes\\ApiEmpleadosMultiplesRoutes\\ApiEmpleadosMultiplesRoutes.csproj": {}
+    "E:\\WEB_MASTER\\MODULO4\\AZURE\\Proyectos\\API\\ApiEmpleadosMultiplesRoutes\\ApiEmpleadosMultiplesRoutes\\ApiEmpleadosMultiplesRoutes.csproj": {}
   },
   "projects": {
-    "E:\\WEB_MASTER\\MODULO4\\AZURE\\WCFLogicaPrimerServicio\\ApiEmpleadosMultiplesRoutes\\ApiEmpleadosMultiplesRoutes\\ApiEmpleadosMultiplesRoutes.csproj": {
+    "E:\\WEB_MASTER\\MODULO4\\AZURE\\Proyectos\\API\\ApiEmpleadosMultiplesRoutes\\ApiEmpleadosMultiplesRoutes\\ApiEmpleadosMultiplesRoutes.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\WEB_MASTER\\MODULO4\\AZURE\\WCFLogicaPrimerServicio\\ApiEmpleadosMultiplesRoutes\\ApiEmpleadosMultiplesRoutes\\ApiEmpleadosMultiplesRoutes.csproj",
+        "projectUniqueName": "E:\\WEB_MASTER\\MODULO4\\AZURE\\Proyectos\\API\\ApiEmpleadosMultiplesRoutes\\ApiEmpleadosMultiplesRoutes\\ApiEmpleadosMultiplesRoutes.csproj",
         "projectName": "ApiEmpleadosMultiplesRoutes",
-        "projectPath": "E:\\WEB_MASTER\\MODULO4\\AZURE\\WCFLogicaPrimerServicio\\ApiEmpleadosMultiplesRoutes\\ApiEmpleadosMultiplesRoutes\\ApiEmpleadosMultiplesRoutes.csproj",
+        "projectPath": "E:\\WEB_MASTER\\MODULO4\\AZURE\\Proyectos\\API\\ApiEmpleadosMultiplesRoutes\\ApiEmpleadosMultiplesRoutes\\ApiEmpleadosMultiplesRoutes.csproj",
         "packagesPath": "C:\\Users\\Alumnos MCSD Mañana\\.nuget\\packages\\",
-        "outputPath": "E:\\WEB_MASTER\\MODULO4\\AZURE\\WCFLogicaPrimerServicio\\ApiEmpleadosMultiplesRoutes\\ApiEmpleadosMultiplesRoutes\\obj\\",
+        "outputPath": "E:\\WEB_MASTER\\MODULO4\\AZURE\\Proyectos\\API\\ApiEmpleadosMultiplesRoutes\\ApiEmpleadosMultiplesRoutes\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Alumnos MCSD Mañana\\AppData\\Roaming\\NuGet\\NuGet.Config",

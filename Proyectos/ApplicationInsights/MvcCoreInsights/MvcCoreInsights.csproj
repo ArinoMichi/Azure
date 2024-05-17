@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <ApplicationInsightsResourceId>/subscriptions/5c301b2d-6dfc-494e-aa63-268a5468b3b1/resourceGroups/rg-viernes/providers/microsoft.insights/components/analisisdonativos</ApplicationInsightsResourceId>
+    <UserSecretsId>153c1554-ca7d-48ac-bdab-7fe5867c9ca2</UserSecretsId>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.ApplicationInsights.AspNetCore" Version="2.22.0" />
+    <PackageReference Include="Microsoft.ApplicationInsights.TraceListener" Version="2.22.0" />
+    <PackageReference Include="Microsoft.ApplicationInsights.Web" Version="2.22.0" />
+  </ItemGroup>
+
+</Project>

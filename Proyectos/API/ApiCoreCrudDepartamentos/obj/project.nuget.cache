@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "OGv9BycLNRIs1pKzEIyITGPoIdiBBCWYvqxewKAWSpXFoe4JMXL0PMhPVA3cGVp7P4Y6UBwu80H+WR+IJE/XyA==",
+  "dgSpecHash": "xfpTrMu1VLFBLn42Y9pvqoVcbLjsyh/MIe7KkURqY1fbImS/0vuH7yHs24kVbveKONRY2Kz4h7c/GP4DJcuVDA==",
   "success": true,
-  "projectFilePath": "E:\\WEB_MASTER\\MODULO4\\AZURE\\Proyectos\\ApiCoreCrudDepartamentos\\ApiCoreCrudDepartamentos.csproj",
+  "projectFilePath": "E:\\WEB_MASTER\\MODULO4\\AZURE\\Proyectos\\API\\ApiCoreCrudDepartamentos\\ApiCoreCrudDepartamentos.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Alumnos MCSD Mañana\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\Alumnos MCSD Mañana\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
